@@ -1,7 +1,7 @@
 # Livro Data Science do Zero
 
 <div align="center">
-    <h3>Livro Data Science do Zero com conversão para Phyton 3 pois livro foi feito em 2.7<h3/>  
+    <h3>Livro Data Science do Zero com conversão para Python 3 pois livro foi feito em 2.7<h3/>  
 </div>
 
 <p align="center"> 
